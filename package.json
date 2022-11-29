@@ -1,0 +1,14 @@
+{
+  "name": "drop-dead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  }
+}
