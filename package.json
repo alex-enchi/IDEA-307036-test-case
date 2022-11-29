@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "failrun": "node index.js"
   },
+  "pre-commit": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
